@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "5Dl-ux-JF0"; */
+"5Dl-ux-JF0.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Relase Date"; ObjectID = "9W7-bC-eOS"; */
+"9W7-bC-eOS.text" = "Relase Date";
+
+/* Class = "UILabel"; text = "Genre"; ObjectID = "DjJ-DE-nMJ"; */
+"DjJ-DE-nMJ.text" = "Genre";
+
+/* Class = "UILabel"; text = "Rating"; ObjectID = "E63-r0-IRd"; */
+"E63-r0-IRd.text" = "Rating";
+
+/* Class = "UILabel"; text = "setVotes"; ObjectID = "GiQ-7J-m52"; */
+"GiQ-7J-m52.text" = "setVotes";
+
+/* Class = "UILabel"; text = "Release Date"; ObjectID = "GjS-gs-An3"; */
+"GjS-gs-An3.text" = "Release Date";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "IcS-jT-mWL"; */
+"IcS-jT-mWL.text" = "Title";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "JyR-zw-eLp"; */
+"JyR-zw-eLp.text" = "Overview";
+
+/* Class = "UITextField"; placeholder = "Enter your criteria "; ObjectID = "Nuf-IR-Euw"; */
+"Nuf-IR-Euw.placeholder" = "Enter your criteria ";
+
+/* Class = "UIButton"; normalTitle = "Favorite"; ObjectID = "OmX-Ic-gwd"; */
+"OmX-Ic-gwd.normalTitle" = "Favorite";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Zea-3d-kje"; */
+"Zea-3d-kje.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "Popular Movies"; ObjectID = "azY-LY-iP0"; */
+"azY-LY-iP0.title" = "Popular Movies";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "owg-gH-p3c"; */
+"owg-gH-p3c.text" = "Status";
