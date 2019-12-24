@@ -1,12 +1,17 @@
 PODS:
+  - AFNNetworking (3.2.5):
+    - SDWebImage
+    - SVProgressHUD
   - Alamofire (4.8.1)
   - Cosmos (18.0.1)
   - SDWebImage (4.4.6):
     - SDWebImage/Core (= 4.4.6)
   - SDWebImage/Core (4.4.6)
+  - SVProgressHUD (2.2.5)
   - SwiftyJSON (4.2.0)
 
 DEPENDENCIES:
+  - AFNNetworking
   - Alamofire
   - Cosmos
   - SDWebImage
@@ -14,17 +19,21 @@ DEPENDENCIES:
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
+    - AFNNetworking
     - Alamofire
     - Cosmos
     - SDWebImage
+    - SVProgressHUD
     - SwiftyJSON
 
 SPEC CHECKSUMS:
+  AFNNetworking: 5631f46011b0f5d6a516a9066d0a0e151703dd41
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
   Cosmos: 7dfaa3f52584ca5f94ab74b5c2e264019cc9f7f5
   SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
   SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
 
-PODFILE CHECKSUM: a75e8a754685fd30462fb26ac65bc75da965a9e6
+PODFILE CHECKSUM: 03473a3e1b44c4cfe4f48497f5115ceea21a8b36
 
 COCOAPODS: 1.5.3
